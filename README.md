@@ -7,4 +7,4 @@ This project involves cleaning, analyzing and visualzing a student survey datase
 - Visualization using charts like bar chart, pie chart and line chart.
 
 ## Files
-- 
+- `Survey_Data_Sample.xlsx` contains the following sheets `raw data`, `clean data` (including summary statistics) and `charts`.
